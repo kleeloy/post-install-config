@@ -31,7 +31,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_roles_lab_3_part_2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_Department_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_teams_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured roles to create a new supreme admin role, getting all permissions. Configured departments and created a systems admin department. Configured teams to be able to pull specefic teams to perform specefic tasks. Created a level 1 and level 2 support
@@ -39,7 +45,7 @@ Configured roles to create a new supreme admin role, getting all permissions. Co
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/Allow_anyone_to_create_tickets_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets.
@@ -48,7 +54,7 @@ Allow anyone to create tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_agents_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured agents; these are the workers. They have the intent to respons to tickets. Added John and Jane Doe with different permissions
@@ -56,7 +62,7 @@ Configured agents; these are the workers. They have the intent to respons to tic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_users_lab_3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured users; these are the customers the agents will support. Added Karen and Ken Dow
@@ -64,7 +70,7 @@ Configured users; these are the customers the agents will support. Added Karen a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_SLA_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured SLA (with osTicket, it is used as a time limit to finish such tasks). Create 3 SLA's, Sev-A (1 hour, 24/7), Sev-B (8 hours, 24/7), and Sev-C (8 hours, business hours)
@@ -72,7 +78,7 @@ Configured SLA (with osTicket, it is used as a time limit to finish such tasks).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_help_topics_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request', 'Password Reset' 
