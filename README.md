@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_teams_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured roles to create a new supreme admin role, getting all permissions. Configured departments and created a systems admin department. Configured teams to be able to pull specefic teams to perform specefic tasks. Created a level 1 and level 2 support
+Logged in as the admin, I Configured roles to create a new supreme admin role, getting all permissions. Configured departments and created a systems admin department. Configured teams to be able to pull specefic teams to perform specefic tasks. Created a level 1 and level 2 support
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Allow anyone to create tickets.
 <img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_agents_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured agents; these are the workers. They have the intent to respons to tickets. Added John and Jane Doe with different permissions
+As an admin I Configured agents; these are the workers. They have the intent to respons to tickets. Added John and Jane Doe with different permissions
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Configured users; these are the customers the agents will support. Added Karen a
 <img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_SLA_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured SLA (with osTicket, it is used as a time limit to finish such tasks). Create 3 SLA's, Sev-A (1 hour, 24/7), Sev-B (8 hours, 24/7), and Sev-C (8 hours, business hours)
+As an admin I Configured SLA (with osTicket, it is used as a time limit to finish such tasks). Create 3 SLA's, Sev-A (1 hour, 24/7), Sev-B (8 hours, 24/7), and Sev-C (8 hours, business hours)
 </p>
 <br />
 
@@ -81,6 +81,6 @@ Configured SLA (with osTicket, it is used as a time limit to finish such tasks).
 <img src="https://github.com/kleeloy/post-install-config/blob/main/Diagrams/configure_help_topics_lab_3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request', 'Password Reset' 
+As an admin I Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request', 'Password Reset' 
 </p>
 <br />
